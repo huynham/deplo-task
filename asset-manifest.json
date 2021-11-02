@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deplo-task.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/deplo-task.git/static/js/main.ec1f544b.chunk.js",
+    "main.js.map": "/deplo-task.git/static/js/main.ec1f544b.chunk.js.map",
+    "runtime-main.js": "/deplo-task.git/static/js/runtime-main.430d2a9c.js",
+    "runtime-main.js.map": "/deplo-task.git/static/js/runtime-main.430d2a9c.js.map",
+    "static/js/2.dae8b705.chunk.js": "/deplo-task.git/static/js/2.dae8b705.chunk.js",
+    "static/js/2.dae8b705.chunk.js.map": "/deplo-task.git/static/js/2.dae8b705.chunk.js.map",
+    "static/js/3.f6a55be6.chunk.js": "/deplo-task.git/static/js/3.f6a55be6.chunk.js",
+    "static/js/3.f6a55be6.chunk.js.map": "/deplo-task.git/static/js/3.f6a55be6.chunk.js.map",
+    "index.html": "/deplo-task.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/deplo-task.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dae8b705.chunk.js.LICENSE.txt": "/deplo-task.git/static/js/2.dae8b705.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.430d2a9c.js",
+    "static/js/2.dae8b705.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ec1f544b.chunk.js"
+  ]
+}
